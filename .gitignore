@@ -1,0 +1,10 @@
+*.exe
+*.obj
+*.o
+hotel-management
+build/
+.vs/
+.idea/
+INVENTORY.txt
+CUURENT.txt
+PASSWORD.txt

@@ -57,4 +57,3 @@ ctest --test-dir build -C Debug --output-on-failure
 ## Author and context
 
 Ramy Slait · First-year problem-solving coursework. The supplied source is preserved in structure, with the focused corrections described above.
-
